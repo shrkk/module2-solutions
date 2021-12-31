@@ -1,0 +1,13 @@
+*{
+	
+}
+li:nth-child(odd){
+	background: lightblue;
+}
+li:nth-child(even){
+	background: skyblue;
+}
+li:nth-child(1){
+	background: lightcoral;
+	font-weight: bold;
+}
